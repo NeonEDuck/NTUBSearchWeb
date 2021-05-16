@@ -1,0 +1,22 @@
+th {
+    text-align: center;
+}
+
+.navbar {
+    z-index:10;
+}
+#dropdownMenuButton {
+    margin-bottom: 20px ;
+}
+.masthead {
+    position: relative;
+    width: 100%;
+    min-height: calc( 100vh - 179px );
+    min-height: 35rem;
+    padding: 15rem 0;
+    background: linear-gradient(to bottom, rgba(163, 161, 161, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../images/bg-masthead.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
